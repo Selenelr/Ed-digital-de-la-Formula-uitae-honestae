@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Las cuatro virtudes</title>
+                <author>Alfonso de Cartagena</author>
+                <respStmt>
+                    <resp>Traductor de la obra original de</resp>
+                    <name>Martín de Braga</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Proyecto de Humanidades Digitales</publisher>
+                <availability>
+                    <p>Uso académico</p>
+                </availability>
+                <date>2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="FVH_cart">
+                    <msIdentifier>
+                        <settlement>Edición digital</settlement>
+                        <idno>FVH-CART</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title>Formula Vitae Honestae</title>
+                            <author>Martín de Braga</author>
+                            <textLang mainLang="la"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+        <pb n="1"/>
+            <div type="front" xml:id="prologo_Cartagena" ana="">
+                <head>COMIENZAN LAS QUATRO VIRTUDES DE SÉNECA</head>
+                <p n="1">
+                    1. De las espeçias de quatro <term>virtudes</term> por sentençias de <rs type="autoridad">muchos <term>sabios</term></rs> son difinidas, por las quales el <term>ánimo humano</term> afeytado pueda a <term>honestad</term> allegar. 
+                    D’estas la primera es <term>prudençia</term>, la segunda <term>magnanimidad</term>, la terçera <term>continençia</term>, la quarta <term>justiçia</term>.
+                    Con estos ofiçios cada una de las que ayuso allegadas son, fazen <term>onesto</term> e <term>bienaventurado</term> varón.
+                </p>
+            </div>
+
+            <div type="section" xml:id="prudencia_Cartagena" ana="">
+                <head>2. De prudençia</head>
+                <p n="2">
+                    Pues qualquier que <term>prudençia</term> seguir deseas, estonçes por <term>razón derecha</term> bevirás si primero todas las cosas <seg type="doublete">pienses e miembres</seg>, e dignidad a las <term>cosas</term> non de <term>opinión de muchos</term> mas de su <term>natura</term> establescas.
+                    Ca saber deves qué cosas paresçen buenas e non son, e qué non pareçen buenas ser e lo son.
+                    Quequier que de las <term>cosas transitorias</term> posees, non te maravilles nin grande estimes lo que <term>caduco</term> es, nin <term>cosas</term> que cerca de ti [h]as guardarás así como agenas, mas para ti así como tuyas e <seg type="doublete">despiendas e uses</seg>.
+                    Si <term>la prudençia</term> abraças, uno mesmo serás donde quier, e segúnd la variedad de las cosas e tiempo requiere, así te prestes al tiempo, nin te en algunas mudes, mas ante ti aparejes, <seg type="analogia">como la mano, que ella mesma es quando es en palma estendida e quando es en puño estreñida.</seg>
+                    Del prudente propio es examinar los <term>consejos</term> e non çede con <term>creençia ligera</term> ser a <term>falsedad deleznado</term>.
+                    De las dubdas non determines, mas ten la sentençia colgada.
+                    Nin cosa afirmes, ca non todo lo que [h]a de verdad semblante,luego verdadero es, así como muchas vezes lo que pareçía non creyble primero, non luego era falso.
+                    E espresamente la mentira se esconde con faz de verdad, ca así como algunas vezes frente triste el amigo e blanda el <term>lisonjero</term> demuestra, así es por trasmudaçión colorado e para que engañe o arrebate trabaja.
+                    Si prudente ser deseas, ave a lo venidero entinçión, e las cosas que acaesçer pueden, en tu <term>ánimo</term> çiertas propongas.
+                    Ninguna cosa a ti súbita sea, mas todo lo antes acates.
+                    Ca el que <term>prudente</term> es non dize: <quote>"Non pensé que esto sería”</quote> ca non dubda mas espera, e non sospecha mas esquiva.
+                    De qualquier fecho la causa requiere: desque los comienços fallares, cuydarás las salidas.
+                    Sábete dever en cosas algunas perseverar, porque començaste: en algunas en verdad nin comentar en las quales sea el perseverar dañoso.
+                    El prudente engañar non quiere, ser engañado non podrá.
+                    Las opiniones tuyas juyzios sean.
+                    Cuydados vagos e como a sueño semblantes non resçebirás, con los quales, si ovieres el tu <term>ánimo</term> çevado, desque todas las cosas dispusieres, triste quedarás.
+                    El tu cuydado estable e çierto sea, si quier delibre, si quier busque, cómprale non salga de verdadero.
+                    La tu palabra non sea vana, mas o enseñe, o amoneste, o consuele, o mande.
+                    Alaba escaso, más escaso denuesta. Ca semblante reprehensible es mucho loor como desmesurado denuesto. Aquella, por cierto, lisonja es, e aqueste es de maldad sospechoso.
+                    Testimonio <ref target="#g1">{1}</ref> de verdad, non de amistanza retornes.
+                    Con deliberaçión promete, más lleneramente que prometieres si da presta.
+                    Si prudente es tu <term>ánimo</term>, sea en tres tiempos <ref target="#g2">{2}</ref> dispensado: <term>lo presente</term> ordena, <term> lo venidero</term> provee, <term> lo pasado</term> recuerda. Ca el que ninguna cosa de lo pasado cuyda, la vida <ref target="#g3">{3}</ref> pierde, quien ninguna cosa de lo venidero pensare, primero en todas las cosas caerá non guardado.
+                    Mas propon en tu <term>ánimo</term> los males venideros e bienes, aquellos para que sostener puedas e estos temprar.
+                    Non siempre seas en obra, mas algunas vezes da folgança a tu <term>ánimo</term>, e esta folgança llena sea de estudios de sapiençia e cogitaçiones buenas.
+                    Porque el prudente nunca en oçio mora. Algunas vegadas <term>ánimo</term> remiso [h]a, nunca soltado. Apresura lo tardío, lo angustioso despacha, lo duro amollenta, lo áspero tiempra, lo alto prosigue.
+                    Ca sabe por qué vía se [h]a de acometer e en çierto cada cosa vee en clara manera.
+                    El consejo de los <term>sabios</term>, de las cosas abiertas piensa escuras, de las pequeñas grandes, de las çercanas remotas e de las partes todas.
+                    Non te mueva la autoridad del diziente, nin quien, mas que diga, entiende.
+                    Ten cuydado non para que a muchos fagas plazer, mas a quáles.
+                    Aquello busca que puedas fallar, aquello aprende que puedas saber, aquello desea que delante los buenos pueda ser deseado.
+                    Non te pongas en más alta cosa que tú, en la qual luego verás que non puedes durar.
+                    Estonçe llama saludables <term>consejos</term> quando a ti escarnesçe la <term>prosperidad</term> de la vida. Estonçe así como en desvaradero te reternás e estarás.
+                    Nin a ti libres impulsiones darás, mas al derredor mirarás dónde devas yr o fasta qué.
+                </p>
+            </div>
+
+            <div type="section" xml:id="magnanimidad_Cartagena" ana="">
+                <head>3. De magnanimidad</head>
+                <p n="3">
+                    <term>Magnanimidad</term>, que fortaleza es dicha, si en tu <term>ánimo</term> fuere, con grande fiuzia bevirás libre e alegre. Grand cosa del <term>ánimo humano</term> es retener, mas para sí estar e el fin de la vida non dubdoso esperar.
+                    Si magnánimo fueres, nunca judgarás a ti ser fechos denuestos.
+                    Del enemigo dirás: “Non dañó a mí, mas ovo coraçón de dañar” e quando lo en tu poderío vieres, pensarás ser vengança averte podido vengar; sabe onesto e mayor linaje de vengança ser el perdonar.
+                    Nin orejero desees.
+                    A ninguno socaves.
+                    Manifiesto acometas.
+                    Non traerás conquista salvo si lo primero dixeres, ca fraos e engaños flaco demuestran.
+                    Serás magnánimo si los peligros nin los desees como temerario <ref target="#g4">{4}</ref>, nin los dubdes como temeroso, ca temeroso non faze el <term>ánimo</term> salvo <term>conçiençia</term> de reprehensible vida.
+                </p>
+            </div>
+
+            <div type="section" xml:id="continencia_Cartagena" ana="">
+                <head>4. De continençia</head>
+                <p n="4">
+                    <term>Continençia</term> <ref target="#g5">{5}</ref> si deseas, çerçena lo sobrado e en angosto los tus deseos estriñe.
+                    Piensa contigo quanto la natura demande, e quanto la cobdiçia espere.
+                    Si continente fueres, fasta tanto vernás que de ti seas contento, ca el que a sí es asaz, es con <term>riquezas</term> nasçido.
+                    Pon a la cobdiçia freno, todas las cosas arroja que son de regalo.
+                    Come aquende crudeza, beve aquende embriagueza.
+                    Guarda que en el combite o en cada comunidad de vida que non seas visto condepnar a los que semejas. Nin a los <term>deleytes</term> presentes te allegarás, nin desearás los absentes.
+                    El mantenimiento a ti de cosa sea ligera, non a voluntad <ref target="#g6">{6}</ref> mas a vianda te allega.
+                    El tu paladar <ref target="#g7">{7}</ref> la fambre despierte, non los sabores.
+                    Los tus deseos con poco redime, ca por ello solamente curar deves que çesen. E así, casi a enxemplar divino <ref target="#g8">{8}</ref>, en tu composiçión del cuerpo te presura traer para el ánima quanto tú pudieres.
+                    Si en continençia estudias, non entiendas a <term>deleyte</term> mas a salud, nin quieras el señor ser conosçido de la casa, mas la casa del señor.
+                    Non te fingas lo que non eres, nin quieras ser visto mayor que eres.
+                    Esto más guarda <ref target="#g9">{9}</ref>, nin la pobredad sea a ti non limpia, nin a lo muy poco sea suzia la vida, nin la simpliçidad menospresçiada, nin la ligereza <ref target="#g10">{10}</ref> flaca.
+                    E si a ti pocas cosas son, non sean a ti angostas.
+                    Nin tus cosas llores nin fagas maravillas de las agenas.
+                    Si tú continençia deseas, fuye las cosas torpes ante que vengan, nin ayas vergüença de alguno más que de ti. Todas las cosas cree sufrideras afuera de torpedad.
+                    De las palabras otrosí torpes te absternás, porque la liçençia d'ellas impudiçia nudre.
+                    Sermones provechosos ama más que afeytados, derechos más que a deleytables.
+                    Mezclarás a vegadas juegos, mas temprados e sin amenguamiento de la dignidad e vergüença. Ca reprehensible es el riso, si es sin <term>mesura</term>, si niñeramente derramado, si mugerilmente quebrantado.
+                    Aborresçible ombre faze el riso si es sobervio e claro, o malo o fortivo, o agenos males llamado.
+                    Pues si el tiempo juegos demanda, estos con dignidad e sabiduría toma para que te nin agravien en cosa así como a áspero, nin así como a vil menospreçien.
+                    Non te sea <term>garçonil</term> la cortesía <ref target="#g11">{11}</ref>, mas grata. Las saludes tuyas sin dientes sean, los lugares sin <term>desprovecho</term>, los risos sin escarnio, la boz sin clamor, el andar sin ruydo, la folgança sin descuydo; e quando los otros jugaren, tú alguna cosa de santidad e onesta
+                    tratarás.
+                    Si continente eres, lisonjas esquiva e sea te tan triste ser de los torpes loado como si fueses de cosas torpes loado. E sey más alegre cada que a los malos desplazes, e las malas estimaçiones de ti por los malos escrívelo a ti a loor verdadero.
+                    Muy difíçil obra de <term>continencia</term> es el consentimiento de los <term>lisonjeros repeler</term>, las palabras de los quales el <term>ánimo</term> con <term>deleyte</term> resuelven.
+                    De ninguno <ref target="#g12">{12}</ref> por consentimiento <term>amistança</term> merescas, nin para meresçer la tuya por este aparejo demuestres.
+                    Non serás atrevido, non arrogante.
+                    Someter te [h]as, mas non te arrojes.
+                    La gravedad guardada, amonestado serás de buenamente, en la reprehensión paçiente.
+                    Si con mérito te alguno ynjurió, sabe que te fizo provecho, si sin meresçimiento, sabe que aprovechar quiso.
+                    Non ásperas, mas temerás palabras blandas.
+                    Sey fuydor de <term>viçios</term> tuyos, e de los otros non serás escudriñador curioso nin reprehendedor áspero, mas corregidor sin denuesto, así que al amonestamiento con alegría prevengas, e al error darás perdón de ligero.
+                    Non ensalçes a qualquiera nin derribes al diziente. Sey callado oydor, al requiriente ligero responde, al menospresçiante da lugar de ligero, nin a ruydos des lugar nin a discordias.
+                    Si continente eres, guarda los <term>miedos</term> de tu <term>ánimo</term> e cuerpo, que feos non sean, nin por ende los menospresçies, porque están escondidos. Ca non va cosa, si ninguno los vea, pues que tú mesmo los vees.
+                    Movible sey, non liviano; costante, non revelado.
+                    Tú de alguna cosa aver sentençia, nin te sea encubierto nin triste.
+                    Todos a ti parejos farás, los de baxo non los de alto derechamente biviendo non temas.
+                    A todos sey benigno, a ninguno blando; a pocos familiar, a todos ygual.
+                    Más cruel de juyzio que de palabra, más de vida que de bulto, de clemençia cultor, desaprovador de crueza, de buena fama nin sembrador nin de cosa agena embidioso, de nuevas, de culpas, de suplicaçiones muy poco creyente, mas firmemente a los maliçiosos que por espeçie de simpliçidad a dañar algunos si se levantaren serás muy contrario, a yra tardío, a misericordia presto, en las adversidades firme, en las prosperidades <seg type="doublete">cauto e omildoso</seg>, ascondedor de <term>virtudes</term> como los otros de viçios, de vana gloria menospreçiador.
+                    La ymprudencia de ninguno despreçies. Sey tú de palabra tardío, mas de las que fablarás sufiçiente. De paciençia cobdiçioso e enseñable.
+                    Lo que sopiste partirás al demandante sin arrogancia. Lo que non sopiste demandar te lo [h]as por ti e sin asconder tu ynorançia.
+                </p>
+            </div>
+
+            <div type="section" xml:id="justicia_Cartagena" ana="">
+                <head>5. De justiçia</head>
+                <p n="5">
+                    Después d'esto es menester saber qué cosa es <term>la justiçia</term>. E ¿qué es <term>la justiçia</term> salvo callada egualación de natura para provecho de muchos fallada? ¿E qué es <term>justiçia</term> salvo establesçimiento nuestro, mas divina ley e atadura de la <term>compañía humana</term>? E en ésta non pertenesçe que pensemos qué es lo que es menester, mas qué menester es lo que ella dictare. Qualquier que la seguir desea, estonçe primero ama para que seas amado de dios.
+                    Amarás a dios si le en esto paresçieres, que quieras a todos aprovechar, que quieras dañar a ninguno, e estonçe varón justo te llamarán, seguirte [h]an todos, te temerán e amarán.
+                    Justo si fueres, non solamente non dapñarás, mas aun vedarás dañadores.
+                    Ca ninguna cosa dapñar non es <term>justiçia</term>, mas es abstinencia de ageno.
+                    Pues de aquestas cosas comiença e non çeses, para que seas a mayores guiado. E las cosas tomadas a los otros las tornes, e a esos robadores, para que los otros non sean temidos, castiga e vieda.
+                    De ninguna dubdança de boz contrariedad enlazes, mas la calidad del camino mira.
+                    Non te dé más que afirmes o jures.
+                    De religión e fe sepas ser fecho onde es de verdad tratado. Ca si en derecho jurando dios es llamado, e testigo fuere al que non le llamare, pero non traspases la verdad, nin la ley de <term>justiçia</term> traspases. E si alguna vegada acaesçiere usar de mentira, non seas aguarda de falso mas de verdadero, e si acaesçiere con mentira felicidad redemir, aún non mientas, mas antes lo escusarás, porque donde honesta causa es, el justo non pierde los <term>secretos</term> de dentro.
+                    Ca las cosas de callar calla, e las de fablar fabla, e así avrá paz e segura folgança. Pues esto si estudiar cuydares, alegre e non dubdoso los cursos de tu fin esperando, acatarás las cosas tristes de aqueste mundo alegre; las baratosas folgado; la postrimera seguro.
+                </p>
+            </div>
+
+            <div type="section" xml:id="conclusion_Cartagena" ana="">
+                <p n="6">
+                    6. Con aquestas estituçiones, pues que así es, estas quatro espeçias de <term>virtudes</term> perfecto varón te farán, si medida de restituçión d'ellas con ygual fin ovieres guardado.
+                    Ca la <term>prudençia</term> si los <term>términos</term> suyos excede, artería es, e si modos raposinos cometieres, e fueres buscador de las cosas ascondidas e te mostrares escodriñador de qualesquier cosas dañosas, sey temeroso siempre alguna cosa buscando, siempre alguna cosa escodriñando. E quando muy sotiles plegarias tuyas para dañar el dedo mostrado astute, de piel revesada e de simpliçidad enemigo, e menospresçiador de culpas, e postrimero por un nombre de todos serás llamado mal ombre.
+                    Pues estas máculas nunca la <term>prudençia</term> si non desmesurada produze.
+                    Qualquier que en ella en mediana balança estoviere, nin tenga en sí cosa tuerta nin revesada.
+                </p>
+
+                <p n="7">
+                    7. <term>La magnanimidad</term> si se allende su manera ensalmare, fará varón fumoso, inflado, de turbio non folgado, e en qualesquier exçelençias de dotores despreçiando lo onesto festino, el qual en todos momentos teniendo las sus sobreçejas alçadas como bestial, las folganças despierta, a otro fiere, a otro afuyenta, mas aunque-l impugnador sea osado.
+                </p>
+
+                <p n="8">
+                    8. La contineçia desdende en estos <term>términos</term> te escrivan, guarda <term>escaso</term> non seas, para que nin sospechosamente e temerosa la mano retornes, para que en cosas <term>pequeñas</term> tu esperança non pongas.
+                    Porque tal e tanta paresçerá la integridad çircumçiosa.
+                    Pues por esta <term>liga de medianería</term> la <term>continençia</term> guardarás, para que nin a <term>deleytes</term> dado pródigo <term>luxurioso</term> seas, nin con tenasçidad <term>avarienta</term> suzio o escuro parescas.
+                </p>
+
+                <p n="9">
+                    9. La <term>justiçia</term> postrimero, por aquel camino de <term>medianería</term> es a ti de regir, para que, por ligero traynel cada día movida, non siga después sienpre negligençia a la <term>razón</term> del <term>ánimo</term>, mientra que nin de grandes nin de <term>pequeños</term> viçios de los errantes traes cuydado de corregir, mas liçençia de pecar, o a los que blandamente te escarnesçen, o a los que te engañan protervamente, prometes.
+                    Nin <term>curso</term> alguno de venia o de benignidad por mucha reziedumbre e aspereza guardando a la <term>conpañía umana</term> digno parescas.
+                    Pues así [h]a de ser la <term>razón</term> de <term>justiçia</term> tenida, para que nin por reverençia de su <term>disciplina</term> muy temida, nin por mucha conpañia de negliçencia despreçiada vileza, nin por mas áspera crueldad duresçida pierda la graçia de la <term>amabilidat <ref target="#g13">{13}</ref> humana</term>.
+                </p>
+            </div>
+        </body>
+
+        <back>
+            <div type="section" ana="">
+                <head>Glosas</head>
+                <note xml:id="g1" n="1">
+                    <p>
+                        <label>{1} Testimonio:</label> Es traer testigo a confirmaçión de verdad. Onde si acaesçiese que por <term>amistança</term> de alguno fuese ombre movido a se de la virtud apartar, manda <persName>Séneca</persName> retornar a la verdad el testigo. 
+                        Çerca d’esto en el decálogo <bibl><title>Exo. xx.</title> <foreign xml:lang="lat">ne sis testis nisi ueri</foreign></bibl>. 
+                        <persName>Aristótiles</persName> en el primero de las <title>Éticas</title> <foreign xml:lang="lat">ambobus existentibus amicis dignum est prehonorare ueritatem</foreign>.
+                    </p>
+                </note>
+
+                <note xml:id="g2" n="2">
+                    <p><label>{2} Tres tiempos:</label> Si el pasado, el presente e el avenidero.</p>
+                </note>
+
+                <note xml:id="g3" n="3">
+                    <p><label>{3} Vida:</label> Presente e aún la advenidera.</p>
+                </note>
+
+                <note xml:id="g4" n="4">
+                    <p><label>{4} Temerario:</label> Temerario es el que se atreve locamente.</p>
+                </note>
+
+                <note xml:id="g5" n="5">
+                    <p>
+                        <label>{5} Continencia:</label> En este lugar se entiende no solamente a <term>deleytes</term> carnales, mas a todo uso acostumbrado e humano donde puede aver demasías. Por ende el que continençia [h]a, d'esta non deve usar de cosa sobrada. E por esto dice çerçena e desecha o taja de ti lo sobrado. E non solamente la soberana continençia lo sobrado çerçena en poseer, mas aun sus deseos estrecha en tanto que solamente lo nesçesario cobdiçia. E esto es lo que dize tus deseos estriñe.
+                    </p>
+                </note>
+
+                <note xml:id="g6" n="6">
+                    <p>
+                        <label>{6} A voluntad:</label> <term>voluntad</term> escripia con <mentioned>"p"</mentioned> quiere dezir delectaçión corporal.
+                    </p>
+                </note>
+
+                <note xml:id="g7" n="7">
+                    <p>
+                        <label>{7} El tu paladar:</label> Non deve ombre recebir vianda por delectaçión de sabores mas por nesçesidat de la vida. Ca la nesçesidat de la vida despierta el paladar con fambre e los <term>deleytes</term> d’él espiertan a sabores.
+                    </p>
+                </note>
+
+                <note xml:id="g8" n="8">
+                    <p>
+                        <label>{8} A enxemplar divino:</label> Enxemplar divino es la primera causa donde reçiben semblança todas las cosas criadas. E bien así como todas afectivamente manan de la causa primera, así deven a ella todas tornar por final entinçión e obsequio devido. E pues si fue el mundo ordenado por el soberano maestro que en la criatura umana, que es mundo menor, fuesen todas las cosas del mundo mayor por composiçión ayuntadas al ánima, deve el virtuoso e continente varón así remediar e quitar e çesar sus carnales deseos. Que membrando, entendiendo e amando a dios apresure de los traer para el ánima porque sin empacho de carga se torne al exemplar donde ovo resçebido semblança.
+                    </p>
+                </note>
+
+                <note xml:id="g9" n="9">
+                    <p>
+                        <label>{9} Esto más guarda:</label> Así como si dixese: puesto que-l continente deve ser pobre de espíritu e dar poca parte a los deseos del cuerpo e deve ser simple e manso. Pero lo que en ello más deve guardar es que si perdiere la riqueza non pierda la baxura. E caso que a su cuerpo de solamente quanto pertenesçe a la vida non sea suzio lo poco e seyendo simple non sea negligente. E caso que sea manso, non sea por ende flaco manso. Segúnd esta glosa devía dezir el testo nin la mansedumbre flaca.
+                    </p>
+                </note>
+
+                <note xml:id="g10" n="10">
+                    <p>
+                        <label>{10} Ligereza:</label> la cosa ligera comúnmente es flaca más que la pesada. Mas entendiendo esta palabra moralmente quiere dezir: deve ombre ser ligero para el bien fazer e non flaco para resistir contra el mal.
+                    </p>
+                </note>
+
+                <note xml:id="g11" n="11">
+                    <p>
+                        <label>{11} La cortesía:</label> El continente deve medir en tal manera los juegos que en moviendo a los otros a riso e a plazer non sobrepuje <term>mesura</term> para que sin injuria de alguno sea a todos grato e plazible. La cortesía, pues, non deve ser gargonil, por quanto garçonía propiamente es lo que-l <rs type="autoridad">filósofo</rs> en el quarto de las <title>Éticas</title> nombró <term xml:lang="grc">vomolochia</term> que es pujar manera de vida e desmesura en los juegos e risos, tomando los dichos e fechos de los otros para convertirlos en riso, desechada e desatada la injuria que en aquello los otros resçiben. E por esto amonesta <persName>Séneca</persName> al virtuoso que non sea la cortesía garçonil mas grata, en manera que las fablas de los donayres fablados non tengan dientes para morder e romper a los ombres las faldas de la onrra e fama.
+                    </p>
+                </note>
+
+                <note xml:id="g12" n="12">
+                    <p>
+                        <label>{12} De ninguno:</label> Como si dixese: non deve ombre tomar por espeçial amigo a qualquier que se ofreçe por solo consentimiento. Nin deve el virtuoso continente ofrecer su espeçial <term>amistança</term> por tal aparejo.
+                    </p>
+                </note>
+
+                <note xml:id="g13" n="13">
+                    <p><label>{13} Amabilidat:</label> que es amor de los ombres çerca de aquel que tempradamente guarda <term>la justiçia</term>.</p>
+                </note>
+
+                <div type="comentario" resp="#Cartagena">
+                    <p>
+                        OT.<persName>Santo Tomás</persName> <foreign xml:lang="lat">in 2ª 2e</foreign> tractando d’estas quatro <term>virtudes</term> cardinales pone la orden d'ellas en otra manera, ca después de <term>la prudençia</term> pone <term>la justiçia</term> e después <term>la fortaleza</term> e <term>la temprança</term>. E la <term>razón</term> por que así se deven ordenar dízelo en la dicha <bibl><foreign xml:lang="lat">2ª 2e q. 23</foreign> artículo último</bibl>.
+                    </p>
+                </div>
+            </div>
+        </back>
+    </text>
+</TEI>

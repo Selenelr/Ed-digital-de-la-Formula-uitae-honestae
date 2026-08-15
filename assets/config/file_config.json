@@ -1,0 +1,25 @@
+{
+	"editionUrls": [
+	"assets/data/corpus_unificado_FVH.xml"
+	],
+	"editionImagesSource": {
+		"manifest": {
+			"value": "",
+			"enable": false
+		},
+		"graphics": {
+			"value": "url",
+			"enable": false
+		}
+	},
+	"imagesFolderUrls": {
+		"single": "assets/data/images/single/",
+		"double": "assets/data/images/double/"
+	},
+	"configurationUrls": {
+		"edition": "assets/config/edition_config_FVH.json",
+		"ui": "assets/config/ui_config_FVH.json",
+		"editorialConventions": "assets/config/editorial_conventions_config.json"
+	},
+	"logoUrl": "assets/images/Logo_app_FVH.png"
+}

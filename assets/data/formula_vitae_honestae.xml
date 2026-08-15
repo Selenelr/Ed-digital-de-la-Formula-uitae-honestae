@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Formula Vitae Honestae</title>
+                <author>Martín de Braga</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Proyecto de Humanidades Digitales</publisher>
+                <availability>
+                    <p>Uso académico</p>
+                </availability>
+                <date>2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="FVH_lat">
+                    <msIdentifier>
+                        <settlement>Edición digital</settlement>
+                        <idno>FVH-LAT</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title>Formula Vitae Honestae</title>
+                            <author>Martín de Braga</author>
+                            <textLang mainLang="la"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body xml:lang="lat">
+        <pb n="1"/>
+            <div type="front" xml:id="prologo_FVH" ana="">
+                <head>FORMVLA VITAE HONESTAE</head>
+                <opener>
+                Gloriosissimo ac tranquillissimo et insigni catholicae fidei praedito pietate 
+                <persName>Mironi regi</persName> <persName>Martinus humilis episcopus</persName>.
+                </opener>
+                
+                <p n="1">
+                    1. Non ignoro, clementissime rex, flagrantissimam tui <term>animi</term> sitim <term>sapientiae</term> insatiabiliter poculis inhiare eaque te ardenter, quibus moralis scientiae riuuli manant, fluenta requirere et ob hoc humilitatem meam tuis saepius litteris admonere ut dignationi tuae crebro aliquid per epistolam scribens aut consolationis aut exhortationis alicuius etsi qualiacumque sint offeram dicta. 
+                    Sed quamuis hoc a me laudabile tuae pietatis exigat studium, scio tamen tenuitati meae <term>insolentem</term> continuo a <term>cautis</term> impingi <term>proteruiam</term>, si regalis reuerentiae grauitatem aut assiduis aut uilibus, ut libet, dictis attingam. 
+                    Et ideo ne aut ego licentia piae inuitationis abuterer loquendo aut uestro magis desiderio obsisterem reticendo, libellum hunc nulla sophismatum ostentatione politum, sed planitie purae <term>simplicitatis</term> exertum capacibus fidenter auribus obtuli recitandum.
+                    Quem non uestrae specialiter institutioni, cui naturalis <term>sapientiae</term> sagacitas praesto est, sed generaliter his conscripsi quos ministeriis tuis adstantes haec conuenit legere, intellegere et tenere. 
+                    Titulus autem libelli est <title>Formula uitae honestae</title>, quem idcirco tali uolui uocabulo superscribi, quia non illa ardua et perfecta quae a paucis et egregiis deicolis patrantur instituit, sed ea magis commonet quae et sine diuinarum scripturarum praeceptis naturali tantum humanae intellegentiae lege etiam a laicis recte honesteque uiuentibus ualeant adimpleri.
+                </p>
+                <p n="1a"> 
+                    la. Quattuor <term>uirtutum</term> species <rs type="autoridad">multorum <term>sapientum</term></rs> sententiis definitae sunt quibus <term>humanus animus</term> comptus ad honestatem uitae possit accedere: harum prima est <term>prudentia</term>, secunda <term>magnanimitas</term>, tertia <term>continentia</term>, quarta <term>iustitia</term>. 
+                    Singulae igitur his officiis quae subter adnexa sunt honestum ac bene moratum uirum efficiunt.
+                </p>
+            </div>
+
+            <div type="section" n="2" xml:id="prudencia_FVH" ana="">
+                <p n="2">
+                    2. Quisquís ergo <term>prudentiam</term> sequi desideras, tunc per <term>rationem</term> recte uiues, si omnia prius aestimes et perpenses et dignitatem <term>rebus</term> non ex <term>opinione</term> multorum, sed ex earum <term>natura</term> constituas.
+                    Nam scire debes quia sunt quae non uideantur bona esse et sunt, et sunt quae uideantur et non sunt. Quaecumque autem ex <term>rebus</term> <term>transitoriis</term> possides, non mireris nec magni aestimes quod <term>caducum</term> est nec apud te quae habes tamquam aliena seruabis, sed pro te tamquam tua et dispenses et utaris. 
+                    Si <term>prudentiam</term> amplecteris, ubique idem eris et prout rerum uarietas exigit, ita te accomodes tempori nec te in aliquibus mutes, sed potius aptes, sicut manus quae eadem est et cum in palmam extenditur et cum in pugnum adstringitur. 
+                    Prudentis proprium est examinare <term>consilia</term> et non cito facili credulitate ad falsa prolabi. De dubiis non definias, sed suspensam tene sententiam. Nihil affirmes, quia non omne quod ueri-simile est statim et uerum est, sicut et saepius quod primum incredibile uidetur non continuo falsum est. 
+                    Crebro siquidem faciem mendacii ueritas retinet, crebro mendacium specie ueritatis occulitur. Nam sicut aliquotiens tristem frontem amicus et blandam <term>adulator</term> ostendit, sic uerisimile coloratur et ut fallat uel subripiat comitur. Si prudens esse cupis, in futura prospectum intende et quae possunt contingere, animo tuo cuneta propone. 
+                    Nihil tibi subitum sit, sed toturn ante prospicies. Nam qui <term>prudens</term> est non dicit: <quote>"Non putaui hoc fieri"</quote> quia non dubitat, sed exspectat, nec suspicatur, sed cauet.
+                    Cuiuscumque facti causam require: cum initia inueneris, exitus cogitabis. Seito in quibusdam perseuerare te debere, quia coepisti: quaedam uero nec incipere in quibus perseuerare sit noxium. 
+                    Prudens fallere non uult, falli non potest. <term>Opiniones</term> tuae iudicia sint. Cogitationes uagas et uelut somnio similes non recipies, quibus si animum tuum oblectaueris, cum omnia disposueris, tristis remanebis. 
+                    Sed cogitado tua stabilis et certa siue deliberet siue quaerat siue contempletur non recedat a uero. Sermo quoque tuus non sit inanis, sed aut suadeat aut moneat aut consoletur aut praecipiat. Lauda parce, uitupera parcius. 
+                    Nam similiter reprehensibilis est nimia laudado quam immoderata culpado; illa siquidem adulatione, ista malignitate suspecta est. Testimonium ueritati, non amicitiae reddas. Cum consideratione promitte, plenius quam promiseris praesta. 
+                    Si prudens es, <term>animus</term> tuus tribus temporibus dispensetur: <term>praesentia</term> ordina, <term>futura</term> praeuide, <term>praeterita</term> recordare. Nam qui nihil de praeterito cogitat perdit uitam, qui nihil de futuro prae-meditatur in omnia incautus incedit. 
+                    Propone autem animo et mala futura et bona, ut illa sustinere possis, ista moderare. Non semper in actu sis, sed interdum animo tuo requiem dato, sed requies ipsa plena sit <term>sapientiae</term> studiis et cogitationibus bonis. Nam prudens numquam otio marcet.
+                    Animum aliquando remissum habet, numquam solutum. Accelerat tarda, perplexa expedit, dura mollit, ardua exaequat. Scit enim quid qua uia adgredi debeat et cito singula et distincte uidet <term>consilia</term> imperitorum. Ex apertis obscura aestimat, ex paruulis magna, ex proximis remota, ex partibus tota. 
+                    Non te moueat dicentis auctoritas, nec quis, sed quid dicat intendito, nec quam multis, sed qualibus placeas cogita. Id quaere quod potest inueniri, id disce quod potest sciri, id opta quod optari coram omnibus potest. Nec altiori te rei irnponas in qua stanti tibi tremendum, descendenti cadendum sit. 
+                    Tunc <term>consilia</term> tibi salutaria aduoca, cum tibí adludit huius uitae prosperitas. Tunc te uelut in lubrico retinebis ac sistes nec tibi dabis impetus liberos, sed circumspicies quo eundum sit uel quousque.
+                </p>
+            </div>
+
+            <div type="section" n="3" xml:id="magnaminidad_FVH" ana="">
+                <p n="3">
+                    3. <term>Magnanimitas</term> uero, quae et fortitudo dicitur, si insit animo tuo, cum magna fiducia uiues liber, intrepidus, alacer. Magnum humani <term>animi</term> bonum est non tremere, sed constare sibi et finem huius uitae intrepidus exspectare. 
+                    Si magnanimis fueris, numquam iudicabis tibi contumeliam fieri. De inimico dices: "Non nocuit mihi, sed animum nocendi habuit" et cum ilium in potestate tua uideris, uindictam putabis uindicare potuisse: scito enim honestum et magnum uindictae esse genus ignoscere. 
+                    Neminem susurro appetas, neminem suffodias: palam egredere. Non geres conflictum nisi indixeris: nam fraudes et doli imbecillum decent. Eris magnanimis, si pericula nec appetas ut temerarius, nec formides ut timidus. 
+                    Nam timidum non facit animum nisi reprehensibilis uitae <term>conscientia</term> mala.
+                </p>
+            </div>
+
+            <div type="section" n="4" xml:id="continencia_FVH" ana="">
+                <p n="4">
+                    4. <term>Continentiam</term> uero si diligis, circumcide superfina et in artum desideria tua constringe. Considera tecum quantum <term>natura</term> poscat, non quantum cupiditas expetat. Si continens fueris, usque eo peruenies ut te ipso contentus sis. Nam qui sibi ipse satis est cum diuitiis natus est. 
+                    Impone concupiscentiae frenum omniaque blandimenta quae occulta <term>uoluptate</term> animum trahunt reice. Ede citra cruditatem, bibe citra ebrietatem. Obserua ne in conuiuio uel in qualibet uitae communitate quos non imitaberis damnare uidearis. Nec praesentibus deliciis inhaerebis nec desiderabis absentes. 
+                    Victus tibi ex facili sit, nec ad <term>uoluptatem</term>, sed ad cibum accede. Palatum tuum fames excitent, non sapores. Desideria tua paruo redime, quia hoc tantum curare debes, ut desinant. Atque ita quasi ad exemplar diuinum compositus a corpore ad spiritum quantum potes abducere. Si <term>continentiae</term> studes, habita non amoene, sed salubriter, nec dominum notum uelis esse a domo, sed domum a domino. 
+                    Non tibi affingas quod non eris, nec quod es maius quam es uideri uelis. Hoc magis obserua, ne paupertas tibi immunda sit nec parsimonia sórdida nec simplicitas neglecta nec lenitas lánguida, et si res tibi exiguae sunt, non sint tamen angustae. Nec tua defleas nec aliena mireris. 
+                    Si <term>continentiam</term> diligis, turpia fugito antequam accidant, nec quemquam alium uereberis plus quam te. Omnia tolerabilia praeter turpitudinem crede. A uerbis quoque turpibus abstineto, quia licentia eorum impudentiam nutrit. Sermones utiles magis quam facetos et affabiles ama, rectos potius quam obsecundantes. 
+                    Miscebis interdum seriis iocos, sed temperatos et sine detrimento dignationis ac uerecundiae. Nam reprehensibilis risus est, si immodicus, si pueriliter effusus, si muliebriter fractus. Odibilem quoque hominem facit risus aut superbus et clarus aut malignus et furtiuus aut alienis malis euocatus. 
+                    Si ergo tempus iocos exigit, in his quoque cum dignitate <term>sapientiae</term> gere, ut te nec grauet quisquam tamquam asperum nec contemnat tamquam uilem. Non erit tibi scurrilitas, sed grata urbanitas. Sales tui sine dente sint, ioci sine uilitate, risus sine cachinno, uoxsine clamore, incessus sine tumultu. 
+                    Quies tibi non desidia erit et cum ab aliis luditur tu sancti aliquid honestique tractabis. Si continens es, adulationes euita sitque tibi tarn triste laudari a turpibus quam si lauderis ob turpia. Laetior esto quotiens displices malis et malorum de te aestimationes malas ueram tui laudationem adscribe. 
+                    Difficillimum <term>continentiae</term> opus est adsentationes <term>adulantium</term> repeliere, quorum sermones animum quadam <term>uoluptate</term> resoluunt. Nullius per adsentationem amicitiam merearis nec hunc promerendi ad te aditum aliis pandas. Non eris audax, non adrogans. Submittes te, non proicies, grauitate seruata. Admoneberis libenter, reprehenderis patienter. 
+                    Si mérito te obiurgauit aliquis, scito quia profuit, si immerito, scito quia prodesse uoluit. Non acerba, sed blanda uerba timebis. Esto uitiorum fugax ipse, aliorum uero ñeque curiosus scrutator ñeque acerbus reprehensor, sed sine exprobratione corrector, ita ut admonitionem hilaritate praeuenias. Et errori facile ueniam dato. 
+                    Nec extollas quemquam nec deicias. Dicentium esto tacitus auditor, adeuntium promptus receptor. Requirenti facile responde, contendenti facile cede, nec in iurgia disceptationesque descendas. Si continens es, et <term>animi</term> tui et corporis motus obserua, ne indecori sint, nec ideo illos contemnas, quia latent. 
+                    Nam nihil differt, si nemo uideat, cum ipse illos uideas. Mobilis esto, non leuis; constans, non pertinax. Alicuius rei scientiam te habere nec ignotum sit nec molestum. Omnes tibi pares facies: si inferiores superbiendo non contemnas, superiores recte uiuendo non timeas. In reddenda officiositate ñeque neglegus ñeque exactor appareas. 
+                    Cunctis esto benignus, nemini blandus, paucis familiaris, omnibus aequus. Severior esto iudicio quam sermone, uita quam uultu, ultor clemens, saeuitiae detestator, famae bonae ñeque tuae seminator ñeque alienaeinuidus, rumoribus, criminibus,suspicionibusminimecredulus, sed potius malignis qui per speciem <term>simplicitatis</term> ad nocendum aliquibus subripiunt oppositissimus, ad iram tardus, ad misericordiam pronus, in <term>aduersis</term> firmus, in <term>prosperis</term> cautus et humilis, occultator <term>uirtutum</term> sicut alii uitiorum, uanae gloriae contemptor et bonorum quibus praeditus es non acerbus exactor. 
+                    Nullius <term>imprudentiam</term> despicias. Rari sermonis ipse, sed loquacium patiens, seuerus ac serius, sed hilares non aspernans, <term>sapientiae</term> cupidus et docilis. Quae nosti sine adrogantia postulanti imperties. Quae nescis sine occultatione ignorantiae tibi postula impertiri.
+                </p>
+            </div>
+
+            <div type="section" n="5" xml:id="justicia_FVH" ana="">
+                <p n="5">
+                    5. <term>lustitiae</term> post haec uirtus est. Quid est autem <term>iustitia</term> nisi <term>naturae</term> tacita conuentio in adiutorium multorum inuenta? Et quid est <term>iustitia</term> nisi nostra constitutio, sed diuina lex, et uinculum <term>societatis humanae</term>? In hac non est quod aestimemus quid expediat. Expediet quicquid illa dictauerit. 
+                    Quisquís ergo hanc sectari desideras, time prius deum et ama deum, ut ameris a deo. Amabis enim deum, si ilium in hoc imitaberis, ut uelis omnibus prodesse, nulli nocere et tunc te iustum uirum appellabunt omnes, sequentur, uenerabuntur et diligent. Justus enim ut sis, non solum non nocebis, sed etiam nocentes prohibebis. 
+                    Nam nihil nocere non est iustitia, sed abstinentia alieni est. Ab his ergo incipe, ut non auferas. Et ad maiora prouehere, ut etiam ab aliis ablata restituas; raptoresque ipsos ne aliis timendi sint, castiga et cohíbe. Ex nulla uocis ambiguitate controuersiam nectas, sed qualitatem <term>animi</term> speculare. 
+                    Nihil tibi intersit an firmes an iures: de religione et fide scias agi ubicumque de ueritate tractatur. Nam etsi iureiurando deus non inuocetur -etiam non inuocanti testis est- tamen non transies ueritatem, ne <term>iustitiae</term> transeas legem. Quod etsi aliquando coarteris uti mendacio, utere non ad falsi, sed ad ueri custodiam, et si contigerit fidelitatem mendacio redimí, non mentieris, sed potius excusabis, quia ubi honesta causa est iustus secreta non prodet. 
+                    Tacenda enim tacet, loquenda loquitur; atque ita alta illi pax est et secura tranquillitas. Dum alii a malis uincuntur, ab illo mala. Haec ergo si studere curaueris, laetus et intrepidus cursus tui finem exspectans prospicies tristia huius mundi hilaris, tumultuosa quietus, extrema securus.
+                </p>
+            </div>
+
+            <div type="section" xml:id="conclusion_FVH" ana="">
+                <p n="6">
+                    6. His ergo institutionibus hae quattuor <term>uirtutum</term> species perfectum te facient uirum, si mensuram rectitudinis earum aequo uiuendi fine seruaueris. Nam <term>prudentia</term> si términos suos excedat, callidus et pauendi acuminis eris, inuestigator latentium et scrutator qualiumcumque noxarum ostenderis. 
+                    Notaberis minutus, suspiciosus, attentus, semper aliquid timens, semper aliquid quaerens, semper aliquid conuincens, et quisubtilissimassuspiciones tuasaddeprehensionem alicuius impingas admissi. Monstraberis digito astu plenus, uersipellis et <term>simplicitatis</term> inimicus, commentatorque culparum, et postremo uno nomine a cunctis malus homo uocaberis. 
+                    In has ergo maculas <term>prudentia</term> immensurata perducet. Quicumque in ilia mediocri lance persistit, nec obtusum in se habet aliquid nec uersutum.
+                </p>
+
+                <p n="7">
+                    7. <term>Magnanimitas</term> autem si se extra modum suum extollat, faciet uirum minacem, inflatum, turbidum, inquietum, et in quascumque excellentias dictorum atque factorum neglecta honestate festinum, qui momentis omnibus supercilia subrigens ut bestiarius, etiam quieta excitat: alium ferit, alium figit. 
+                    Sed quamuis audax sit impugnator, tamen multa extra se ualentia ferre non poterit, sed aut miserum oppetit finem aut aerumnosam sui memoriam derelinquit. Mensura ergo magnanimitatis est nec timidum esse hominem nec audacem.
+                </p>
+
+                <p n="8">
+                    8. <term>Continentia</term> deinde his <term>terminis</term> te adstringat: caue ne <term>parcus</term> sis, ne suspiciosa et timide manum contrahas, ne in <term>minimis</term> quoque speculam ponas. Nam talis et tarn circumcisa pudebit integritas. 
+                    Hac ergo <term>mediocritatis</term> <term>linea</term> <term>continentiam</term> obseruabis, ut nec <term>uoluptati</term> deditus, <term>prodigus</term> aut <term>luxuriosus</term> appareas, nec auara <term>tenacitate</term> sórdidas aut obscurus existas.
+                </p>
+
+                <p n="9">
+                    9. <term>lustitia</term> postremo eo <term>mediocritatis</term> tibi tenore regenda est, ne ductu iugiter leni immotam semper <term>animi</term> <term>rationem</term> neglegentia subsequatur, dum ñeque de magnis ñeque de <term>minimis</term> errantium uitiis corrigendi curam geres, sed licentiam peccandi aut adludentibus tibi blande aut inludentibus proterue permittes. 
+                    Ñeque rursum nimiae rigiditatis asperitate nihil ueniae aut benignitati reseruans <term>humanae societati</term> dirus appareas. 
+                    Ita ergo amabilis <term>iustitiae</term> <term>regula</term> tenenda est, ut reuerentia <term>disciplinae</term> eius ñeque nimia neglegentiae communitate despecta uilescat ñeque seueriori atrocitate durata gratiam <term>humanae amabilitatis</term> amittat.
+                </p>
+
+                <p n="10">
+                    10. Si quis ergo uitam suam ad utilitatem non tantum propriam, sed et multoruminculpabiliter adscisci desiderat, hancpraedictarum <term>uirtutum</term> formulam pro qualitatibus temporum, locorum, personarum, atque causarum eo medietatis tramite teneat, 
+                    ut uelut in quodam meditullio summitatis adsistens quasi per abrupta altrinsecus praecipitia aut ruentem compos ipse deuitet insaniam aut deficientem contemnat ignauiam.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
