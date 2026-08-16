@@ -104,13 +104,13 @@
 				},
 				{
 					"value": "term",
-					"label": "terminos",
+					"label": "Terminos",
 					"color": "#ADFF2F",
 					"enable": true
 				},
 				{
 					"value": "seg[type='doublete']",
-					"label": "dobletes",
+					"label": "Dobletes",
 					"color": "#F0E68C",
 					"enable": true
 				}

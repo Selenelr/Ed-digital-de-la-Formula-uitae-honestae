@@ -21,5 +21,5 @@
 		"ui": "assets/config/ui_config_FVH.json",
 		"editorialConventions": "assets/config/editorial_conventions_config.json"
 	},
-	"logoUrl": "assets/images/Logo_app_FVH.png"
+	"logoUrl": "assets/images/logo_ed_FVH.png"
 }

@@ -89,3 +89,7 @@ evt-addition evt-note {
     float:right;
     margin-top: -1.5rem;
 }
+
+.title {
+    font-style: italic;
+}
