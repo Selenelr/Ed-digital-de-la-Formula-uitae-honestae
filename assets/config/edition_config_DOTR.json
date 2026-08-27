@@ -1,18 +1,18 @@
 {
-	"editionTitle": "Formula uitae honestae [edición académica digital]",
+	"editionTitle": "The Dream of the Rood",
 	"badge": "beta",
-	"editionHome": "",
+	"editionHome": "http://vbd.humnet.unipi.it/beta2/",
 	"availableEditionLevels": [
 		{
 			"id": "diplomatic",
 			"label": "diplomatic",
-			"enable": false,
+			"enable": true,
 			"hidden": false
 		},
 		{
 			"id": "interpretative",
 			"label": "interpretative",
-			"enable": false,
+			"enable": true,
 			"hidden": false
 		},
 		{
@@ -24,7 +24,7 @@
 		{
 			"id": "changesView",
 			"label": "changes",
-			"enable": false,
+			"enable": true,
 			"hidden": true
 		}
 	],
@@ -66,22 +66,22 @@
 					"value": "persName[type='episcopus']",
 					"label": "bishops",
 					"color": "rgb(139, 98, 236)",
-					"enable": false
+					"enable": true
 				},
 				{
 					"value": "placeName,geogName",
 					"label": "places",
 					"color": "#A5D6A7",
-					"enable": false
+					"enable": true
 				},
 				{
 					"value": "orgName",
 					"label": "organizations",
 					"color": "#FFB74D",
-					"enable": false
+					"enable": true
 				}
 			],
-			"enable": true
+			"enable": false
 		},
 		{
 			"label": "Other",
@@ -90,40 +90,28 @@
 					"value": "event",
 					"label": "events",
 					"color": "#fcfc60",
-					"enable": false
+					"enable": true
 				},
 				{
 					"value": "rolename",
 					"label": "roles",
-					"enable": false
+					"enable": true
 				},
 				{
 					"value": "measure",
 					"label": "measures",
-					"enable": false
-				},
-				{
-					"value": "term",
-					"label": "Términos",
-					"color": "#ADFF2F",
-					"enable": true
-				},
-				{
-					"value": "seg[type='doublete']",
-					"label": "Dobletes",
-					"color": "#F0E68C",
 					"enable": true
 				}
 			],
-			"enable": true
+			"enable": false
 		}
 	],
 	"notSignificantVariants": [
 		"type=orthographic"
 	],
-	"defaultEdition": "critical",
-	"defaultViewMode": "readingText",
-	"proseVersesToggler": false,
+	"defaultEdition": "diplomatic",
+	"defaultViewMode": "imageText",
+	"proseVersesToggler": true,
 	"defaultTextFlow": "prose",
 	"verseNumberPrinter": 5,
 	"readingColorLight": "rgb(208, 220, 255)",
